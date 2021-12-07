@@ -182,7 +182,7 @@ ab= np.array(ts_s[21:37])
 
 ab= np.reshape(ab,(1,15,1037322))
 
-forecast1 = model.predict(Xval)
+forecast1 = model.predict(ab)
 
 forecast1.shape[2]
 
@@ -249,13 +249,6 @@ inversed02 = scaler.inverse_transform(forecast1[0,1,:])
 
 #! gdown --id 1jVJc_R1MGbGC-iW0JASXcicky3V8r_ex
 
-# 1- 453699140.0
-# 2- 453701200.0
-# 3- 453701500.0
-# 4- 453701540.0
-# 5- 453701540.0
-# 6- 453701540.0
-# 7-
 
 1- 453699140.0
 2- 453701540.0
