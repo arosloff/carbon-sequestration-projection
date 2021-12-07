@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22703d05-1663-4de2-9c0a-15703c793b69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Cleaner/clean_avg_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Cleaner/data_(31.396, -106.04749999999736).test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Cleaner/data_(41.1537999999997, -106.2559999999974).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Cleaner/data_(48.201099999999485, -115.84699999999874).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Cleaner/no_index_clean_avg_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/FeatureClean/all_clean_training_raw.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/Projection/cleanProjection.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20FGmbiNXw1ZWJZrenLkeXWL034" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/1979-2014 CSVs/FeatureClean" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\carbon-sequestration-projection\Carbon Data\NACP_Forest_Conservation_1662\data\1979-2014 CSVs\FeatureClean" />
+      <recent name="D:\Documents\carbon-sequestration-projection\Carbon Data\NACP_Forest_Conservation_1662\data\1979-2014 CSVs\Cleaner" />
+      <recent name="D:\Carbon Data\NACP_Forest_Conservation_1662\data\FMEC_1979_2014_merge CSVs\Clean Data\BTRAN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Carbon Data\NACP_Forest_Conservation_1662\data\1979-2014 CSVs\FeatureClean" />
+      <recent name="D:\Carbon Data\NACP_Forest_Conservation_1662\data\FMEC_1979_2014_merge CSVs\Clean Data\BTRAN" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Carbon Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/FMEC_1979_2014_merge CSVs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NACP_Forest_Conservation_1662/data/FMEC_1979_2014_merge CSVs/clean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22703d05-1663-4de2-9c0a-15703c793b69" name="Default Changelist" comment="" />
+      <created>1635633081324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635633081324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
